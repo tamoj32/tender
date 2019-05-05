@@ -1,0 +1,17 @@
+/TenderMgmt/src/WebApi/bin
+/TenderMgmt/src/Services/bin
+/TenderMgmt/src/Infrastructure.DbMigration/obj
+/TenderMgmt/src/Infrastructure.Data/bin
+/TenderMgmt/src/Domain/obj
+/Account/src/Account.Domain/bin
+/Account/src/Account.Services/bin
+/Account/src/Account.Infrastructure.Data/obj
+/Account/src/Account.Infrastructure.Data/bin
+/Account/src/Account.WebApi/obj
+/Account/src/Account.WebApi/bin
+/Account/src/Account.Services/obj
+/Account/src/Account.Domain/obj
+
+/TenderMgmt/src/Infrastructure.Data/obj
+/TenderMgmt/src/Services/obj
+/TenderMgmt/src/WebApi/obj
